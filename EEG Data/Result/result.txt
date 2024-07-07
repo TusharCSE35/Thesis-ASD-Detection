@@ -1,0 +1,7 @@
+Test:
+Expected Train: [1 1 1 1 0 0 0 0 1 0 0 1 1]
+Predicted Train: [0 1 1 1 0 0 0 1 1 0 0 1 0]
+Accuracy on Train Data: 0.7692307692307693
+Expected Test: [0 0 0]
+Predicted Test: [0 1 1]
+Accuracy on Test Data: 0.3333333333333333
